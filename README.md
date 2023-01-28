@@ -2,6 +2,7 @@
 
 #### My name is João. I'm a **Web Developer** living in Portugal🇵🇹.
 
+---
 
 ##### **ABOUT ME**
 
