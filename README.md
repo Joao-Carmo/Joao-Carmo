@@ -6,7 +6,7 @@
 
 ##### **ABOUT ME**
 
-- 👨‍🎓 I'm currently finishing a degree in [Web Information Systems and Technologies](https://www.esmad.ipp.pt/courses/degree/663)
+- 👨‍🎓 I have a degree in [Web Information Systems and Technologies](https://www.esmad.ipp.pt/courses/degree/663)
 - 👨‍💻 I'm applying for a curricular internship
 - 🌍 Portuguese | English
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jrcarmo/)
